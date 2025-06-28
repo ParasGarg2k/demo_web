@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "product_id": "p100",
+      "name": "Almond Milk",
+      "category": "Dairy",
+      "aisle_id": "A1",
+      "shelf_id": "S1",
+      "price": 3.99,
+      "barcode": "0123456789012",
+      "image_url": "https://example.com/images/almond_milk.jpg",
+      "diet_tags": ["vegan", "gluten-free", "nut-free"],
+      "stock_quantity": 20
+    },
+    {
+      "product_id": "p101",
+      "name": "Cheddar Cheese",
+      "category": "Dairy",
+      "aisle_id": "A1",
+      "shelf_id": "S2",
+      "price": 5.49,
+      "barcode": "0123456789013",
+      "image_url": "https://example.com/images/cheddar_cheese.jpg",
+      "diet_tags": ["vegetarian"],
+      "stock_quantity": 10
+    },
+    {
+      "product_id": "p102",
+      "name": "Whole Wheat Bread",
+      "category": "Bakery",
+      "aisle_id": "A2",
+      "shelf_id": "S3",
+      "price": 2.99,
+      "barcode": "0123456789014",
+      "image_url": "https://example.com/images/whole_wheat_bread.jpg",
+      "diet_tags": ["vegetarian"],
+      "stock_quantity": 15
+    },
+    {
+      "product_id": "p103",
+      "name": "Orange Juice",
+      "category": "Beverages",
+      "aisle_id": "A3",
+      "shelf_id": "S6",
+      "price": 4.50,
+      "barcode": "0123456789015",
+      "image_url": "https://example.com/images/orange_juice.jpg",
+      "diet_tags": ["vegan", "gluten-free"],
+      "stock_quantity": 25
+    },
+    {
+      "product_id": "p104",
+      "name": "Organic Apples",
+      "category": "Produce",
+      "aisle_id": "A4",
+      "shelf_id": "S7",
+      "price": 1.20,
+      "barcode": "0123456789016",
+      "image_url": "https://example.com/images/organic_apples.jpg",
+      "diet_tags": ["vegan", "gluten-free"],
+      "stock_quantity": 50
+    },
+    {
+      "product_id": "p110",
+      "name": "Blueberry Muffin",
+      "category": "Bakery",
+      "aisle_id": "A2",
+      "shelf_id": "S4",
+      "price": 3.00,
+      "barcode": "0123456789020",
+      "image_url": "https://example.com/images/blueberry_muffin.jpg",
+      "diet_tags": ["vegetarian"],
+      "stock_quantity": 12
+    },
+    {
+      "product_id": "p111",
+      "name": "Potato Chips",
+      "category": "Snacks",
+      "aisle_id": "A5",
+      "shelf_id": "S9",
+      "price": 2.50,
+      "barcode": "0123456789021",
+      "image_url": "https://example.com/images/potato_chips.jpg",
+      "diet_tags": ["vegan", "gluten-free"],
+      "stock_quantity": 30
+    },
+    {
+      "product_id": "p112",
+      "name": "Carrot Sticks",
+      "category": "Produce",
+      "aisle_id": "A4",
+      "shelf_id": "S8",
+      "price": 1.50,
+      "barcode": "0123456789022",
+      "image_url": "https://example.com/images/carrot_sticks.jpg",
+      "diet_tags": ["vegan", "gluten-free"],
+      "stock_quantity": 40
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "user_id": "u001",
+      "name": "Alice",
+      "past_purchases": [
+        {"product_id": "p100", "date": "2025-06-01"},
+        {"product_id": "p101", "date": "2025-06-15"},
+        {"product_id": "p110", "date": "2025-06-20"}
+      ],
+      "preferences": {
+        "diet": "vegetarian",
+        "allergies": ["nuts"],
+        "favorite_categories": ["Dairy", "Bakery"]
+      }
+    },
+    {
+      "user_id": "u002",
+      "name": "Bob",
+      "past_purchases": [
+        {"product_id": "p102", "date": "2025-06-20"},
+        {"product_id": "p103", "date": "2025-06-25"},
+        {"product_id": "p111", "date": "2025-06-27"}
+      ],
+      "preferences": {
+        "diet": "gluten-free",
+        "allergies": [],
+        "favorite_categories": ["Beverages"]
+      }
+    },
+    {
+      "user_id": "u003",
+      "name": "Catherine",
+      "past_purchases": [
+        {"product_id": "p104", "date": "2025-06-10"},
+        {"product_id": "p112", "date": "2025-06-21"}
+      ],
+      "preferences": {
+        "diet": "vegan",
+        "allergies": ["gluten"],
+        "favorite_categories": ["Produce", "Snacks"]
+      }
+    },
+    {
+      "user_id": "u004",
+      "name": "David",
+      "past_purchases": [
+        {"product_id": "p110", "date": "2025-06-12"},
+        {"product_id": "p111", "date": "2025-06-15"}
+      ],
+      "preferences": {
+        "diet": "pescatarian",
+        "allergies": ["shellfish"],
+        "favorite_categories": ["Snacks", "Beverages"]
+      }
+    },
+    {
+      "user_id": "u005",
+      "name": "Emma",
+      "past_purchases": [
+        {"product_id": "p103", "date": "2025-06-18"},
+        {"product_id": "p104", "date": "2025-06-22"},
+        {"product_id": "p112", "date": "2025-06-25"}
+      ],
+      "preferences": {
+        "diet": "vegan",
+        "allergies": [],
+        "favorite_categories": ["Produce", "Dairy"]
+      }
+    },
+    {
+      "user_id": "u006",
+      "name": "Frank",
+      "past_purchases": [
+        {"product_id": "p100", "date": "2025-06-10"},
+        {"product_id": "p102", "date": "2025-06-17"}
+      ],
+      "preferences": {
+        "diet": "omnivore",
+        "allergies": ["peanuts"],
+        "favorite_categories": ["Bakery", "Snacks"]
+      }
+    },
+    {
+      "user_id": "u007",
+      "name": "Grace",
+      "past_purchases": [
+        {"product_id": "p101", "date": "2025-06-11"},
+        {"product_id": "p110", "date": "2025-06-19"},
+        {"product_id": "p111", "date": "2025-06-26"}
+      ],
+      "preferences": {
+        "diet": "vegetarian",
+        "allergies": ["dairy"],
+        "favorite_categories": ["Dairy", "Produce"]
+      }
+    },
+    {
+      "user_id": "u008",
+      "name": "Henry",
+      "past_purchases": [
+        {"product_id": "p104", "date": "2025-06-13"},
+        {"product_id": "p103", "date": "2025-06-23"}
+      ],
+      "preferences": {
+        "diet": "gluten-free",
+        "allergies": [],
+        "favorite_categories": ["Beverages", "Bakery"]
+      }
+    },
+    {
+      "user_id": "u009",
+      "name": "Isabella",
+      "past_purchases": [
+        {"product_id": "p112", "date": "2025-06-14"},
+        {"product_id": "p110", "date": "2025-06-24"}
+      ],
+      "preferences": {
+        "diet": "vegan",
+        "allergies": ["nuts"],
+        "favorite_categories": ["Produce", "Snacks"]
+      }
+    },
+    {
+      "user_id": "u010",
+      "name": "Jack",
+      "past_purchases": [
+        {"product_id": "p100", "date": "2025-06-15"},
+        {"product_id": "p101", "date": "2025-06-27"}
+      ],
+      "preferences": {
+        "diet": "omnivore",
+        "allergies": [],
+        "favorite_categories": ["Dairy", "Beverages"]
+      }
+    }
+  ]
+}

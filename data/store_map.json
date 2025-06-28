@@ -1,0 +1,22 @@
+{
+  "aisles": [
+    {"id": "A1", "name": "Dairy", "coordinates": {"x": 10, "y": 5}},
+    {"id": "A2", "name": "Bakery", "coordinates": {"x": 15, "y": 5}},
+    {"id": "A3", "name": "Beverages", "coordinates": {"x": 20, "y": 5}},
+    {"id": "A4", "name": "Produce", "coordinates": {"x": 10, "y": 10}},
+    {"id": "A5", "name": "Snacks", "coordinates": {"x": 15, "y": 10}},
+    {"id": "A6", "name": "Frozen Foods", "coordinates": {"x": 20, "y": 10}}
+  ],
+  "shelves": [
+    {"id": "S1", "aisle_id": "A1", "name": "Milk & Cream", "coordinates": {"x": 10, "y": 6}},
+    {"id": "S2", "aisle_id": "A1", "name": "Cheese", "coordinates": {"x": 11, "y": 6}},
+    {"id": "S3", "aisle_id": "A2", "name": "Bread", "coordinates": {"x": 15, "y": 6}},
+    {"id": "S4", "aisle_id": "A2", "name": "Pastries", "coordinates": {"x": 16, "y": 6}},
+    {"id": "S5", "aisle_id": "A3", "name": "Soft Drinks", "coordinates": {"x": 20, "y": 6}},
+    {"id": "S6", "aisle_id": "A3", "name": "Juices", "coordinates": {"x": 21, "y": 6}},
+    {"id": "S7", "aisle_id": "A4", "name": "Fruits", "coordinates": {"x": 10, "y": 11}},
+    {"id": "S8", "aisle_id": "A4", "name": "Vegetables", "coordinates": {"x": 11, "y": 11}},
+    {"id": "S9", "aisle_id": "A5", "name": "Chips & Crackers", "coordinates": {"x": 15, "y": 11}},
+    {"id": "S10", "aisle_id": "A6", "name": "Frozen Meals", "coordinates": {"x": 20, "y": 11}}
+  ]
+}
