@@ -1,6 +1,6 @@
 pip install -r requirements.txt
 
-Backend in the walmart folder: uvicorn app.main:app --reload
+Backend in the main folder: uvicorn app.main:app --reload
 
 for frontend:
 
